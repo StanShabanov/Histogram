@@ -1,8 +1,5 @@
 // Stan Shabanov 
 // 12.07.2022
-// CSE 121 Section AB
-// TA: Phil BedFord
-// Programming Assignment 3
 import java.io.*;
 import java.util.*;
 public class FunWithHistograms {
